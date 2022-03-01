@@ -3,7 +3,7 @@ body
 	background :url("img/tło.jpg");
 	background-repeat: no-repeat;
 	background-size: 100%;
-	color: lightgray;
+	color: #ffffff;
 	font-size: 28px;
 	font-family: 'Inconsolata';
 	font-weight: 700;
@@ -32,6 +32,9 @@ body
 	width: 450px;
 	text-align: center;
 	min-height: 280px;
+	border-radius: 15px;
+
+	
 }
 
 #alfabet
@@ -49,7 +52,7 @@ body
 	text-align:center;
 	padding: 5px;
 	margin: 5px;
-	border: 3px solid gray;
+	border: 3px solid #ffffff;
 	float: left;
 	cursor: pointer;
 	border-radius: 15px;
@@ -57,7 +60,7 @@ body
 
 .litera:hover
 {
-	background-color: #222222;
+	background-color: #000000;
 	color: white;
 	border: 3px solid white;
 }
