@@ -31,13 +31,15 @@ body
 {
 	float: left; 
 	width: 500px;
+	height: 450px;
 	text-align: center;
 	min-height: 280px;
 	border-radius: 15px;
-    border: 3px solid #ffffff;
+    border: 5px solid #ffffff;
 	border-radius: 15px;
 	background-repeat: no-repeat;
 	background-size: 100%;
+	
 }
 
 #alfabet
