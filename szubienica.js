@@ -1,4 +1,4 @@
-var haslo = "Bez pracy nie ma kołaczy";
+var haslo = "Nie chwal dnia przed zachodem słońca";
 haslo = haslo.toUpperCase();
 
 var dlugosc = haslo.length;
