@@ -1,4 +1,4 @@
-var haslo = "Nie chwal dnia przed zachodem słońca";
+var haslo = "W życiu pewna jest tylko śmierć i podatki";
 haslo = haslo.toUpperCase();
 
 var dlugosc = haslo.length;
