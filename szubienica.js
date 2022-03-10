@@ -1,4 +1,4 @@
-var haslo = "W życiu pewna jest tylko śmierć i podatki";
+var haslo = "W życiu pewne są tylko śmierć i podatki";
 haslo = haslo.toUpperCase();
 
 var dlugosc = haslo.length;
